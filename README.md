@@ -1,4 +1,4 @@
-# 🧪 Project 2: Hierarchical Clustering (Step-by-Step)
+# 🧪 Hierarchical Clustering (Step-by-Step)
 
 ## 📌 Project Overview
 
